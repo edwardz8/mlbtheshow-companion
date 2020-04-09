@@ -1,0 +1,113 @@
+[{
+    "Player": "Ronald Acuna Jr.",
+    "Team": "ATL",
+    "CON_LHP": 94,
+    "CON_RHP": 70,
+    "POW_LHP": 69,
+    "POW_RHP": 52 
+  },
+  {
+    "Player": "Freddie Freeman",
+    "Team": "ATL",
+    "CON_LHP": 70,
+    "CON_RHP": 90,
+    "POW_LHP": 72,
+    "POW_RHP": 81 
+  },
+  {
+    "Player": "Ozzie Albies",
+    "Team": "ATL",
+    "CON_LHP": 109,
+    "CON_RHP": 61,
+    "POW_LHP": 73,
+    "POW_RHP": 52 
+  },
+  {
+    "Player": "Marcell Ozuna",
+    "Team": "ATL",
+    "CON_LHP": 63,
+    "CON_RHP": 67,
+    "POW_LHP": 75,
+    "POW_RHP": 73 
+  },
+  {
+    "Player": "Adam Duvall",
+    "Team": "ATL",
+    "CON_LHP": 56,
+    "CON_RHP": 45,
+    "POW_LHP": 77,
+    "POW_RHP": 65 
+  },
+  {
+    "Player": "Nick Markakis",
+    "Team": "ATL",
+    "CON_LHP": 76,
+    "CON_RHP": 85,
+    "POW_LHP": 42,
+    "POW_RHP": 53 
+  },
+  {
+    "Player": "Travis D'arnaud",
+    "Team": "ATL",
+    "CON_LHP": 69,
+    "CON_RHP": 49,
+    "POW_LHP": 72,
+    "POW_RHP": 53 
+  },
+  {
+    "Player": "Dansby Swanson",
+    "Team": "ATL",
+    "CON_LHP": 69,
+    "CON_RHP": 53,
+    "POW_LHP": 58,
+    "POW_RHP": 52 
+  },
+  {
+    "Player": "Ender Inciarte",
+    "Team": "ATL",
+    "CON_LHP": 72,
+    "CON_RHP": 67,
+    "POW_LHP": 34,
+    "POW_RHP": 48 
+  },
+  {
+    "Player": "Charlie Culberson",
+    "Team": "ATL",
+    "CON_LHP": 69,
+    "CON_RHP": 56,
+    "POW_LHP": 56,
+    "POW_RHP": 60 
+  },
+  {
+    "Player": "Tyler Flowers",
+    "Team": "ATL",
+    "CON_LHP": 59,
+    "CON_RHP": 58,
+    "POW_LHP": 57,
+    "POW_RHP": 59 
+  },
+  {
+    "Player": "Johan Camargo",
+    "Team": "ATL",
+    "CON_LHP": 50,
+    "CON_RHP": 57,
+    "POW_LHP": 50,
+    "POW_RHP": 48 
+  },
+  {
+    "Player": "Adeiny Hechavarria",
+    "Team": "ATL",
+    "CON_LHP": 68,
+    "CON_RHP": 55,
+    "POW_LHP": 55,
+    "POW_RHP": 47 
+  },
+  {
+    "Player": "Austin Riley",
+    "Team": "ATL",
+    "CON_LHP": 47,
+    "CON_RHP": 43,
+    "POW_LHP": 69,
+    "POW_RHP": 66 
+  }
+]

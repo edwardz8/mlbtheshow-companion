@@ -1,0 +1,89 @@
+[{
+    "Player": "J.D. Martinez",
+    "Team": "BOS",
+    "CON_LHP": 109,
+    "CON_RHP": 82,
+    "POW_LHP": 109,
+    "POW_RHP": 88 
+  },
+  {
+    "Player": "Xander Bogaerts",
+    "Team": "BOS",
+    "CON_LHP": 77,
+    "CON_RHP": 85,
+    "POW_LHP": 80,
+    "POW_RHP": 88 
+  },
+  {
+    "Player": "Rafael Devers",
+    "Team": "BOS",
+    "CON_LHP": 72,
+    "CON_RHP": 85,
+    "POW_LHP": 54,
+    "POW_RHP": 73 
+  },
+  {
+    "Player": "Christian Vazquez",
+    "Team": "BOS",
+    "CON_LHP": 69,
+    "CON_RHP": 65,
+    "POW_LHP": 62,
+    "POW_RHP": 46 
+  },
+  {
+    "Player": "Alex Verdugo",
+    "Team": "BOS",
+    "CON_LHP": 72,
+    "CON_RHP": 65,
+    "POW_LHP": 40,
+    "POW_RHP": 55 
+  },
+  {
+    "Player": "Andrew Benintendi",
+    "Team": "BOS",
+    "CON_LHP": 60,
+    "CON_RHP": 76,
+    "POW_LHP": 46,
+    "POW_RHP": 52 
+  },
+  {
+    "Player": "Kevin Pillar",
+    "Team": "BOS",
+    "CON_LHP": 73,
+    "CON_RHP": 55,
+    "POW_LHP": 65,
+    "POW_RHP": 45 
+  },
+  {
+    "Player": "Jose Peraza",
+    "Team": "BOS",
+    "CON_LHP": 80,
+    "CON_RHP": 53,
+    "POW_LHP": 37,
+    "POW_RHP": 41 
+  },
+  {
+    "Player": "Jackie Bradley Jr.",
+    "Team": "BOS",
+    "CON_LHP": 46,
+    "CON_RHP": 54,
+    "POW_LHP": 45,
+    "POW_RHP": 61 
+  },
+  {
+    "Player": "Mitch Moreland",
+    "Team": "BOS",
+    "CON_LHP": 40,
+    "CON_RHP": 63,
+    "POW_LHP": 44,
+    "POW_RHP": 78 
+  },
+  {
+    "Player": "Dustin Pedroia",
+    "Team": "BOS",
+    "CON_LHP": 65,
+    "CON_RHP": 67,
+    "POW_LHP": 40,
+    "POW_RHP": 40 
+  }
+]

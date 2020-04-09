@@ -1,0 +1,57 @@
+[{
+    "Player": "Justin Turner",
+    "Team": "LAD",
+    "CON_LHP": 94,
+    "CON_RHP": 70,
+    "POW_LHP": 69,
+    "POW_RHP": 52 
+  },
+  {
+    "Player": "Mookie Betts",
+    "Team": "LAD",
+    "CON_LHP": 92,
+    "CON_RHP": 84,
+    "POW_LHP": 69,
+    "POW_RHP": 74 
+  },
+  {
+    "Player": "Cody Bellinger",
+    "Team": "LAD",
+    "CON_LHP": 63,
+    "CON_RHP": 84,
+    "POW_LHP": 72,
+    "POW_RHP": 96 
+  },
+  {
+    "Player": "Will Smith",
+    "Team": "LAD",
+    "CON_LHP": 45,
+    "CON_RHP": 55,
+    "POW_LHP": 54,
+    "POW_RHP": 71
+  },
+  {
+    "Player": "Kike Hernandez",
+    "Team": "LAD",
+    "CON_LHP": 65,
+    "CON_RHP": 43,
+    "POW_LHP": 66,
+    "POW_RHP": 59 
+  },
+  {
+    "Player": "Max Muncy",
+    "Team": "LAD",
+    "CON_LHP": 73,
+    "CON_RHP": 63,
+    "POW_LHP": 83,
+    "POW_RHP": 90 
+  },
+  {
+    "Player": "Joc Pederson",
+    "Team": "LAD",
+    "CON_LHP": 49,
+    "CON_RHP": 59,
+    "POW_LHP": 64,
+    "POW_RHP": 92
+  }
+]

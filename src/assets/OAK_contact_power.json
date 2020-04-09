@@ -1,0 +1,65 @@
+[{
+    "Player": "Matt Chapman",
+    "Team": "OAK",
+    "CON_LHP": 58,
+    "CON_RHP": 63,
+    "POW_LHP": 79,
+    "POW_RHP": 75
+  },
+  {
+    "Player": "Matt Olsen",
+    "Team": "OAK",
+    "CON_LHP": 57,
+    "CON_RHP": 82,
+    "POW_LHP": 90,
+    "POW_RHP": 104
+  },
+  {
+    "Player": "Marcus Semien",
+    "Team": "OAK",
+    "CON_LHP": 80,
+    "CON_RHP": 69,
+    "POW_LHP": 57,
+    "POW_RHP": 68 
+  },
+  {
+    "Player": "Ramon Laureano",
+    "Team": "OAK",
+    "CON_LHP": 72,
+    "CON_RHP": 72,
+    "POW_LHP": 65,
+    "POW_RHP": 69 
+  },
+  {
+    "Player": "Mark Cahna",
+    "Team": "OAK",
+    "CON_LHP": 50,
+    "CON_RHP": 73,
+    "POW_LHP": 79,
+    "POW_RHP": 76 
+  },
+  {
+    "Player": "Stephen Piscotty",
+    "Team": "OAK",
+    "CON_LHP": 69,
+    "CON_RHP": 58,
+    "POW_LHP": 64,
+    "POW_RHP": 59 
+  },
+  {
+    "Player": "Khris Davis",
+    "Team": "OAK",
+    "CON_LHP": 54,
+    "CON_RHP": 54,
+    "POW_LHP": 89,
+    "POW_RHP": 87 
+  },
+  {
+    "Player": "Chad Pinder",
+    "Team": "OAK",
+    "CON_LHP": 63,
+    "CON_RHP": 51,
+    "POW_LHP": 62,
+    "POW_RHP": 58 
+  }
+]

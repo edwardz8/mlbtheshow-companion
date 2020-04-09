@@ -1,0 +1,81 @@
+[{
+    "Player": "Aaron Judge",
+    "Team": "NYY",
+    "CON_LHP": 76,
+    "CON_RHP": 69,
+    "POW_LHP": 95,
+    "POW_RHP": 95 
+  },
+  {
+    "Player": "D.J. Lemahieu",
+    "Team": "NYY",
+    "CON_LHP": 109,
+    "CON_RHP": 80,
+    "POW_LHP": 69,
+    "POW_RHP": 51 
+  },
+  {
+    "Player": "Giancarlo Stanton",
+    "Team": "NYY",
+    "CON_LHP": 90,
+    "CON_RHP": 61,
+    "POW_LHP": 104,
+    "POW_RHP": 88 
+  },
+  {
+    "Player": "Gleyber Torres",
+    "Team": "NYY",
+    "CON_LHP": 85,
+    "CON_RHP": 84,
+    "POW_LHP": 96,
+    "POW_RHP": 93 
+  },
+  {
+    "Player": "Gary Sanchez",
+    "Team": "NYY",
+    "CON_LHP": 52,
+    "CON_RHP": 54,
+    "POW_LHP": 90,
+    "POW_RHP": 88
+  },
+  {
+    "Player": "Brett Gardner",
+    "Team": "NYY",
+    "CON_LHP": 45,
+    "CON_RHP": 65,
+    "POW_LHP": 52,
+    "POW_RHP": 70 
+  },
+  {
+    "Player": "Aaron Hicks",
+    "Team": "NYY",
+    "CON_LHP": 63,
+    "CON_RHP": 50,
+    "POW_LHP": 65,
+    "POW_RHP": 83 
+  },
+  {
+    "Player": "Gio Urshela",
+    "Team": "NYY",
+    "CON_LHP": 78,
+    "CON_RHP": 84,
+    "POW_LHP": 67,
+    "POW_RHP": 58 
+  },
+  {
+    "Player": "Miguel Andujar",
+    "Team": "NYY",
+    "CON_LHP": 67,
+    "CON_RHP": 89,
+    "POW_LHP": 64,
+    "POW_RHP": 68 
+  },
+  {
+    "Player": "Luke Voit",
+    "Team": "NYY",
+    "CON_LHP": 71,
+    "CON_RHP": 70,
+    "POW_LHP": 84,
+    "POW_RHP": 72 
+  }
+]

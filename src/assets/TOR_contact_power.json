@@ -1,0 +1,65 @@
+[{
+    "Player": "Lourdes Gurriel Jr.",
+    "Team": "TOR",
+    "CON_LHP": 79,
+    "CON_RHP": 68,
+    "POW_LHP": 83,
+    "POW_RHP": 65 
+  },
+  {
+    "Player": "Bo Bichette",
+    "Team": "TOR",
+    "CON_LHP": 78,
+    "CON_RHP": 70,
+    "POW_LHP": 65,
+    "POW_RHP": 62 
+  },
+  {
+    "Player": "Vladimir Guerroro Jr.",
+    "Team": "TOR",
+    "CON_LHP": 67,
+    "CON_RHP": 89,
+    "POW_LHP": 76,
+    "POW_RHP": 78 
+  },
+  {
+    "Player": "Randal Grichuk",
+    "Team": "TOR",
+    "CON_LHP": 56,
+    "CON_RHP": 50,
+    "POW_LHP": 69,
+    "POW_RHP": 74 
+  },
+  {
+    "Player": "Travis Shaw",
+    "Team": "TOR",
+    "CON_LHP": 40,
+    "CON_RHP": 54,
+    "POW_LHP": 49,
+    "POW_RHP": 75
+  },
+  {
+    "Player": "Teoscar Hernandez",
+    "Team": "TOR",
+    "CON_LHP": 50,
+    "CON_RHP": 56,
+    "POW_LHP": 78,
+    "POW_RHP": 75
+  },
+  {
+    "Player": "Brandon Drury",
+    "Team": "TOR",
+    "CON_LHP": 55,
+    "CON_RHP": 52,
+    "POW_LHP": 45,
+    "POW_RHP": 57
+  },
+  {
+    "Player": "Dany Jansen",
+    "Team": "TOR",
+    "CON_LHP": 45,
+    "CON_RHP": 36,
+    "POW_LHP": 63,
+    "POW_RHP": 53
+  }
+]
