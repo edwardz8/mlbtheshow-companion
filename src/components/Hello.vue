@@ -17,8 +17,6 @@
        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Share</a>
         <md-icon>sports_baseball</md-icon>
       </md-button>
-      
-    </md-button>
    </div>
       </div>
    <img src="../assets/white-phone.png" class="mlb_phone" alt="mlb_phone" />
